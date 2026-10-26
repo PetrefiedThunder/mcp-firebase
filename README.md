@@ -55,4 +55,4 @@ npx mcp-firebase
 
 ## License
 
-MIT
+Apache-2.0
